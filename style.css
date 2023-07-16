@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-dark-mode {
+    background-color: rgb(32, 45, 54) !important;
+}
+
+.bg-dark-mode-light {
+    background-color: rgb(43, 55, 67) !important;
+}
+
+.dropdown-item-custom:hover {
+    
+    background-color: rgb(106, 118, 129) !important;
+}
+
+
+@media (min-width: 768px) {
+    .w-md-40 {
+        width: 40% !important;
+    }
+    .px-md-4-5 {
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+}
