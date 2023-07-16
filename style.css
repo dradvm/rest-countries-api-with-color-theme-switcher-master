@@ -27,3 +27,9 @@
         padding-right: 2rem !important;
     }
 }
+@media (max-width: 767px) {
+    .px-5-with-gx-0 {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+}
